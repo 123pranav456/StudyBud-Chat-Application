@@ -1,5 +1,5 @@
 # StudyBud-Chat-Application
-![chat](https://github.com/123pranav456/StudyBud-Chat-Application/assets/148248810/ca3c8660-aa1d-4f03-95b1-36ccd9632f67)<br><br>
+![chat](https://github.com/123pranav456/StudyBud-Chat-Application/assets/148248810/38567c16-b633-4784-84d0-f9c6f08f08c4)<br><br>
 <h1 align="center">Hi 👋, I'm Pranav Jadhav</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
